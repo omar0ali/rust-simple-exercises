@@ -2,7 +2,7 @@
 
 A collection of simple Rust applications for personal use and language practice.
 
-## Deexercises
+## Description
 
 This repository contains a set of basic Rust programs that perform various simple tasks, including mathematical operations (addition, subtraction, etc.), palindrome checks, array shuffling, and more. These programs serve as a personal learning exercise and may be useful for reference in the future.
 
