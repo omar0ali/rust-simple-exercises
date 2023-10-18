@@ -7,7 +7,7 @@ fn main() {
         return;
     }
     for i in 0..args.len() {
-        let random_index: usize = rand::thread_rng().gen_range(0..args.len()); //Getting the size of arguments.
+        let random_index: usize = rand::thread_rng().gen_range(0..args.len()); //Pick random number from 0 to the size of the args.
         args.swap(i, random_index);
     }
 
